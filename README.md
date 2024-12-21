@@ -1,6 +1,6 @@
-# ecommer
+# anime cafe
 =======
-# ecommerce
+# anime cafe
 
 A Flutter project.
 
